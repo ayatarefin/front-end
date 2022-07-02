@@ -1,0 +1,23 @@
+.bg{
+    background-color: #f1fff0;
+}
+.img{
+    width:100px;
+    padding:10px;
+}
+.card{
+    background-color: #f1fff0;
+
+}
+.card :hover{
+    background-color: white;
+}
+.cal{
+    width:40px;
+}
+.people{
+    width:40px;
+}
+.button :hover{
+    color: black;
+}
